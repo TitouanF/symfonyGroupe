@@ -1,4 +1,0 @@
-TODO :
-
-// Connexion et Inscription dans fichier php et non dans le main (controle de saisie)
-// Controle de saisie : "Intitule QCM" et "Theme"
